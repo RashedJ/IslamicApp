@@ -2,13 +2,19 @@
 Created to learn more about github and app development
 The goal is create an Android App using Python, looking forward to use PyMob/ Kivy.
 
-Goals:
+# Goals:
 - Istgfaar Button - Keep track for a single day
 - Du'aa, works as a reminder Morning and Magrib
 - Tasbeeh/ Takbeer Button - Similar to point 1
 - Create acceptable UI
 - Testing
 - Publish it
+
+# Extras:
+- Prayer Reminder (it works like 10mins before the pray and then the prayer time, then remindes you every 5 minutes till you press I prayed)
+- Qiblah Direction
+- Alarm to wake up for al fajr pray (specific versus) / The night pray (different versus)
+- Every 30mins /hour/ any duration shows up Du'aa on the screen
 
 More features will be added in the future, but the initial task is made to be simple for beginners.
 
